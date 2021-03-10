@@ -1,0 +1,62 @@
+{
+  "name": "Demo_TPM_3.4_Actividad1",
+  "title": "La importancia de actualizarse",
+  "description": "Selecciona todas las opciones que incluyen una etapa para el desarrollo del pilar de seguridad y medio ambiente.",
+  "difficulty": "basic",
+  "creation_type": "manual",
+  "type": "activity",
+  "experience": 73,
+  "experience_session": 191,
+  "questions": [
+    {
+      "title": "Selecciona todas las opciones que incluyen una etapa para el desarrollo del pilar de seguridad y medio ambiente.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Mejoramiento del equipo para evitar condiciones inseguras de trabajo.",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Gestión eficiente de la información de los equipos utilizados.",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Evitar cambios o modificaciones a los equipos después de la instalación.",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Inspección del proceso y el entorno.",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Sistematización del mantenimiento autónomo de seguridad.",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Mejoras en los equipos para aumentar su nivel de operación, confiabilidad  y capacidad de mantenimiento.",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    }
+  ]
+}

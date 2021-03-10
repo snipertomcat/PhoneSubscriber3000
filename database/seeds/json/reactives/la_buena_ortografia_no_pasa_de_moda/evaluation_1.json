@@ -1,0 +1,192 @@
+{
+  "name": "Demo_O_1_Actividad_3",
+  "title": "Uso de mayúsculas y minúsculas",
+  "description": "Selecciona la respuesta correcta.",
+  "difficulty": "basic",
+  "creation_type": "manual",
+  "type": "activity",
+  "experience": 65,
+  "experience_session": 138,
+  "questions": [
+    {
+      "title": "Los nombres propios se escriben siempre con mayúscula inicial.",
+      "image": null,
+      "type": "single",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "De acuerdo con la Comisión Nacional de los Derechos Humanos, México es un país donde predomina la desigualdad.",
+          "image": "",
+          "type": "radio",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "El único día que puedo salir a tiempo es el viernes.",
+          "image": "",
+          "type": "radio",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Mollete, el perro de mi hermana, es un french poodle",
+          "image": "",
+          "type": "radio",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "A todos los tomó por sorpresa la declaración del presidente.",
+          "image": "",
+          "type": "radio",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Se emplean minúsculas para nombrar los días de la semana.",
+      "image": null,
+      "type": "single",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "A todos los tomó por sorpresa la declaración del presidente.",
+          "image": "",
+          "type": "radio",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "El único día que puedo salir a tiempo es el viernes.",
+          "image": "",
+          "type": "radio",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Mollete, el perro de mi hermana, es un french poodle",
+          "image": "",
+          "type": "radio",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "¡Por supuesto que no! Esas son mentiras.",
+          "image": "",
+          "type": "radio",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Los títulos y cargos deben escribirse en minúsculas.",
+      "image": null,
+      "type": "single",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "A todos los tomó por sorpresa la declaración del presidente.",
+          "image": "",
+          "type": "radio",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "¡Por supuesto que no! Esas son mentiras.",
+          "image": "",
+          "type": "radio",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "El único día que puedo salir a tiempo es el viernes.",
+          "image": "",
+          "type": "radio",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "De acuerdo con la Comisión Nacional de los Derechos Humanos, México es un país donde predomina la desigualdad.",
+          "image": "",
+          "type": "radio",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "La frase posterior al signo de cierre de exclamación o interrogación inicia con mayúscula, siempre y cuando no medie una coma, punto y coma o dos puntos.",
+      "image": null,
+      "type": "single",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "A todos los tomó por sorpresa la declaración del presidente.",
+          "image": "",
+          "type": "radio",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "¡Por supuesto que no! Esas son mentiras",
+          "image": "",
+          "type": "radio",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Mollete, el perro de mi hermana, es un french poodle",
+          "image": "",
+          "type": "radio",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "El único día que puedo salir a tiempo es el viernes.",
+          "image": "",
+          "type": "radio",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Se emplean mayúsculas para nombrar instituciones oficiales, organizaciones, partidos políticos, etcétera.",
+      "image": null,
+      "type": "single",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Mollete, el perro de mi hermana, es un french poodle",
+          "image": "",
+          "type": "radio",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "A todos los tomó por sorpresa la declaración del presidente.",
+          "image": "",
+          "type": "radio",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "De acuerdo con la Comisión Nacional de los Derechos Humanos, México es un país donde predomina la desigualdad.",
+          "image": "",
+          "type": "radio",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "El único día que puedo salir a tiempo es el viernes.",
+          "image": "",
+          "type": "radio",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    }
+  ]
+}

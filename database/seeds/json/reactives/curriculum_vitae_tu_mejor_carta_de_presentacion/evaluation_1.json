@@ -1,0 +1,122 @@
+{
+  "name": "REACTIVE_DEMO_R_11_Actividad_2",
+  "title": "Curriculum vitae, tu mejor carta de presentación",
+  "description": "Lee las siguientes oraciones y determina si son verdaderas o falsas.",
+  "difficulty": "basic",
+  "creation_type": "manual",
+  "type": "activity",
+  "experience": 69,
+  "experience_session": 166,
+  "questions": [
+    {
+      "title": "Redactar un currículum solamente es necesario cuando buscas trabajo.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "title": "Un currículum es tu carta de presentación ante cualquier empresa, organización o institución.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Es fundamental elaborar un currículum sumamente detallado y extenso para impresionar sobre la experiencia del postulante.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "title": "En el apartado de formación académica se incluyen todos los centros educativos donde se formó el postulante.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "title": "Al especificar el manejo de idiomas es importante detallar el nivel de dominio de los mismos.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    }
+  ]
+}

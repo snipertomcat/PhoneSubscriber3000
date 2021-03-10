@@ -1,0 +1,679 @@
+@media (max-width: 640px) {
+
+  .close {
+    cursor: pointer;
+  }
+
+  .rating-text h1{
+    font-size: 1.2rem !important;
+  }
+
+  .rating-category {
+    width: 100% !important;
+    text-align: center;
+  }
+
+  .experience-rating-image{
+    width: 80%;
+  }
+
+  .experience-sessions-next{
+    left: -20px;
+  }
+
+  .experience-sessions-prev{
+    left: 12px;
+  }
+
+  .snotify {
+    width: 310px !important;
+    max-width: 310px !important;
+  }
+
+  .snotify-centerTop, .snotify-centerCenter, .snotify-centerBottom {
+    left: calc(50% - 310px / 2);
+  }
+
+  .modal .modal-content {
+    width: 95%;
+  }
+  .modal-content .button{
+    margin-bottom: 20px;
+  }
+
+  .login-img-bg {
+    width: 100%;
+    right: 0;
+    left: 0;
+    top: 35%;
+  }
+
+  .reset-email-form{
+    margin-top: 20px;
+  }
+
+  .login-color{
+    top:0%;
+    transform: skewY(0deg);
+  }
+
+  .studen-login .page-content {
+    height: calc(100vh - 250px);
+  }
+
+
+  .company-login .page-content {
+    min-height: 100% !important;
+    padding-bottom: 30px;
+  }
+
+  .company-login .login-bg{
+    display:none;
+  }
+
+  .guest-navbar .navbar.no-stuck{
+    height: 60px !important;
+  }
+
+  .guest-navbar .apithy-logo.no-stuck{
+    max-height: 50% !important;
+  }
+
+  .login-wrapper {
+    margin-top: 0px !important;
+  }
+
+  .message.is-danger .message-body{
+    font-size:12px !important;
+    padding: .6em 0.6em !important;
+  }
+
+  .message.is-danger .message-body .list{
+    padding: 5px !important;
+  }
+
+  .featherlight .featherlight-content {
+    width: 99%;
+    background: transparent !important;
+    vertical-align: top !important;
+    margin-top: 5px !important;
+    padding: 5px 5px 0 !important;
+    height: 100% !important;
+  }
+
+  .pricing-header {
+    max-width: 100%;
+  }
+
+  .featherlight .featherlight-content .modal-top {
+    background: url(/images/resources/png/nubesYPlanta.png) no-repeat;
+    width: 100%;
+    height: 150px;
+    background-size: cover;
+    z-index: 1000;
+    top: 3px;
+    position: relative;
+  }
+
+  .top-container{
+    margin-top: 20px;
+  }
+
+  .top-container .form.no-pl{
+    padding-left: 0 !important;
+  }
+
+  .top-container .form.no-pr{
+    padding-right: 0 !important;
+  }
+
+  .header-wrapper img.no-stuck {
+    margin-left: 0;
+  }
+
+  .cloud_head_wrapper {
+    min-height: 500px ;
+  }
+
+  .header-wrapper img.no-stuck {
+    margin-left: 0 !important;
+  }
+
+  .h1, h1 {
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+
+  .lead {
+    font-size: 1rem;
+    font-weight: 300;
+  }
+
+  .head_clouds {
+    top: 150px;
+  }
+
+  .cloud_top_2 {
+    top: -78px;
+  }
+
+  .cloud_piloto {
+    display: none;
+  }
+
+  .navbar-nav li {
+    text-align: right;
+    width: 100%;
+    margin: 0;
+    padding: 5px;
+  }
+
+  .advantage-info-section {
+    padding-top: 0px;
+  }
+
+  .bottom_section img {
+    width: 130px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .bottom_section {
+    margin-bottom: 38px;
+  }
+
+  .register-text-botttom {
+    width: 100%;
+    text-align: center;
+  }
+
+  .cloud_bottom_1 {
+    top: -240px;
+    height: 500px;
+    background-size:cover;
+  }
+
+  .cloud_bottom_2 {
+    width: 100%;
+    height: 170px;
+  }
+
+  .nav_bottom img {
+    margin: 0 auto !important;
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .nav_bottom span {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+  }
+
+  .nav_bottom nav {
+    display:none;
+  }
+
+  .nav_bottom nav.social-nav {
+    display: block;
+    text-align: center;
+    margin: 0 auto 20px auto;
+  }
+
+  .desktop-form{
+    display: none;
+  }
+
+  .mobile-form input{
+    width: 100%;
+  }
+
+  .top-container .mobile-form .user-register-button{
+    width: 75%;
+    margin-top: 10px;
+    margin-left: 0px;
+    display: block;
+  }
+
+  .mobile-form{
+    display: block;
+  }
+
+  .date-footer {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    width: 100%;
+  }
+
+  .path-aliados .user-register-button-top{
+    width: 80%;
+    margin: 0 auto 20px;
+    display: block;
+  }
+
+  .path-aliados input{
+    margin-bottom: 30px;
+  }
+
+  .path-signup input, .path-signup select{
+    margin-top: 20px;
+  }
+
+  .path-aliados .form-row, .path-signup .form-row{
+    margin-bottom: 0;
+  }
+
+  .vue-form-wizard .wizard-nav-pills {
+    width: 100% !important;
+    margin: 0 auto !important;
+  }
+
+  .wizard-progress-with-circle {
+    width: 100% !important;
+    margin: 0 auto !important;
+  }
+
+  .path-signup .company-register{
+    margin-bottom: 30px;
+  }
+
+}
+
+@media all and (min-width: 641px) {
+
+
+  .desktop-form{
+    display: none;
+  }
+
+  .mobile-form{
+    display: block;
+  }
+
+  .cloud_bottom_1 {
+    background-size: cover;
+  }
+
+  .cloud_piloto {
+    top: -166px;
+    width: 532px;
+    height: 706px;
+    background-size: 90%;
+    right: -34%;
+    display: block;
+  }
+
+  .head_clouds {
+    position: relative;
+    top: 110px;
+  }
+
+  .cloud_bottom_1 {
+    left: 0px;
+    top: -320px;
+    background-size: cover;
+    height: 650px;
+
+  }
+
+  /*
+  .cloud_top_1 {
+      top: 23px;
+  }
+  */
+
+  .cloud_top_2 {
+    top: -101px;
+    background-size: contain;
+    height: 800px;
+    left: -40%;
+  }
+
+  .register-text-botttom h1 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: left;
+  }
+
+  .register-text-botttom .lead {
+    max-width: 400px;
+    text-align: left;
+  }
+
+  .bottom_section {
+    margin-bottom: 110px;
+    padding-top: 0px;
+  }
+
+  .cloud_bottom_wrapper .desktop-form{
+    display: none;
+  }
+
+  .cloud_bottom_wrapper .mobile-form{
+    display: block;
+  }
+
+  .bottom_section img {
+    width: 170px;
+    padding-top: 30px;
+  }
+
+  .register-text-botttom{
+    padding-bottom: 5px!important;
+  }
+  .rating-category {
+    text-align: center;
+  }
+}
+
+@media (min-width: 992px) {
+
+  .no-pl{
+    padding-left: 0 !important;
+  }
+
+  .no-pr{
+    padding-right: 0 !important;
+  }
+
+  .cloud_top_2 {
+    top: -140px;
+  }
+
+  .cloud_piloto {
+    top: -238px;
+    width: 539px;
+    height: 830px;
+    background-size: cover;
+    right: 0;
+  }
+
+  .pricing-header, .cloud_head_wrapper .desktop-form {
+    max-width: 75%;
+  }
+
+  .head_clouds {
+    top: 190px;
+  }
+
+  .cloud_bottom_1 {
+    left: 0px;
+    top: -330px;
+    background-size: cover;
+    height: 650px;
+  }
+
+  .bottom_section {
+    margin-bottom: 120px;
+  }
+
+
+  .social-nav a{
+    margin-right:20px
+  }
+
+  .mobile-form{
+    display: none !important;
+  }
+
+  .desktop-form{
+    display: block !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .cloud_piloto {
+    top: -50px ;
+    width: 300px;
+    height: 360px;
+  }
+
+  .cloud_bottom_1 {
+    top: -360px;
+  }
+  .cloud_piloto {
+    right: 3%;
+    top: -238px;
+    width: 600px;
+    height: 900px;
+    background-size: cover;
+  }
+
+  .pricing-header, .cloud_head_wrapper .desktop-form {
+    max-width: 745px;
+  }
+}
+
+
+@media (min-width: 1220px) and (max-width: 1380px) {
+
+  .cloud_bottom_1 {
+    top: -310px;
+  }
+
+  .lead {
+    font-size: 1rem;
+    font-weight: 300;
+    margin: 0;
+  }
+}
+
+@media (min-width: 2000px) {
+  .head_clouds {
+    top: 150px;
+  }
+}
+
+@media (max-width: 321px) {
+
+  .cloud_piloto {
+    display: none;
+  }
+
+  .cloud_head_wrapper {
+    min-height: 436px !important;
+  }
+
+  .advantage-info-section {
+    padding-top: 10px;
+  }
+
+  .login-bg{
+    display: none;
+  }
+
+  .remember-buttons a{
+    color:white;
+  }
+}
+
+@media (max-width: 375px) {
+  .h1, h1 {
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+
+  .rating-category {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+
+  .rating-item {
+    cursor: pointer;
+    margin: 0 15px;
+    margin-bottom: 15px;
+  }
+
+  .rating-text h1 {
+    font-size: .8rem !important;
+  }
+
+  .experience-rating .button {
+    margin: 10px auto;
+    padding: 5px 20px 0 20px;
+  }
+
+  .lead {
+    font-size: .8rem;
+    font-weight: 300;
+    margin: 0;
+  }
+
+  .head_clouds {
+    top: 180px !important;
+  }
+
+  .cloud_head_wrapper {
+    min-height: 400px !important;
+  }
+
+  .top-container .mobile-form .user-register-button {
+    width: 90% !important;
+    margin: 10px auto;
+    display: block;
+  }
+
+  .date-footer {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    width: 100%;
+  }
+
+  .page-content {
+    min-height: calc(100vh - 220px) !important;
+  }
+
+  .company-login .page-content {
+    min-height: 100% !important;
+  }
+
+  .company-login .login-bg{
+    display:none;
+  }
+
+  .login-img-bg {
+    width: 100%;
+    right: 0;
+    left: 0;
+    top: 340px !important;
+    min-height: calc(100vh - 420px) !important;
+  }
+
+}
+
+@media (max-width: 480px)  {
+  .student-login .page-content{
+    height: 100% !important;
+    margin-bottom: 20px !important;
+  }
+
+  .student-login .page-content h1 {
+    font-size: 1.55rem !important;
+  }
+}
+
+@media only screen
+and (min-width : 768px)
+and (max-width : 1024px) {
+
+  .container {
+    max-width: 90%;
+  }
+
+  .cloud_piloto {
+    top: -123px;
+    width: 550px;
+    height: 706px;
+    background-size: 90%;
+    right: -16%;
+
+  }
+
+  .navbar-nav li {
+    margin-right: 40px;
+  }
+
+  .top-container .form.no-pl{
+    padding-left: 0 !important;
+  }
+
+  .top-container .form.no-pr{
+    padding-right: 0 !important;
+  }
+
+  .top-container .mobile-form .user-register-button {
+    width: 75%;
+    margin-top: 10px;
+    margin-left: 0px;
+    display: block;
+  }
+
+  .pricing-header {
+    padding-bottom: 0 !important;
+  }
+}
+
+@media only screen
+and (min-device-width : 768px)
+and (orientation : portrait) {
+
+  .login-img-bg {
+    width: 50%;
+    top: 0;
+    min-height: calc(100vh - 50%);
+  }
+
+  .login-color {
+    height: calc(100vh - 9%);
+    transform: skewY(-56deg);
+  }
+
+  .route-login .page-content {
+    overflow: hidden;
+    height: calc(100vh - 170px) !important;
+  }
+
+  .page-content {
+    overflow: hidden;
+    min-height: calc(100vh - 170px);
+  }
+}
+
+
+@media only screen
+and (min-device-width : 1024px)
+and (orientation : portrait) {
+  .cloud_piloto {
+    top: -123px;
+    width: 550px;
+    height: 706px;
+    background-size: 90%;
+  }
+
+  .cloud_piloto {
+    top: -230px;
+    width: 636px;
+    height: 796px;
+    /* background-size: 90%; */
+    right: -10%;
+  }
+
+  .navbar-nav li {
+    margin-right: 50px;
+  }
+
+  .featherlight .featherlight-content {
+    width: 70% !important;
+  }
+
+  .pricing-header {
+    padding-bottom: 20px !important;
+  }
+}

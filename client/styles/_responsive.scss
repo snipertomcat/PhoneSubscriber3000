@@ -1,0 +1,23 @@
+/* Responsive */
+@responsive {
+  .h-rest-12 {
+    height: calc(100% - 3rem);
+  }
+
+  .h-rest-16 {
+    height: calc(100% - 4rem);
+  }
+
+  .h-rest-24 {
+    height: calc(100% - 6rem);
+  }
+
+  .h-rest-32 {
+    height: calc(100% - 8rem);
+  }
+
+
+  .w-rest-12 {
+    width: calc(100% - 3rem);
+  }
+}

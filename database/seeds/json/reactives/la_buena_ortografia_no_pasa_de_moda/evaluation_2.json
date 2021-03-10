@@ -1,0 +1,157 @@
+{
+  "name": "Demo_O_2_Actividad_2",
+  "title": "Acentuación: reglas básicas",
+  "description": "Lee la definición y selecciona la respuesta correcta.",
+  "difficulty": "basic",
+  "creation_type": "manual",
+  "type": "activity",
+  "experience": 65,
+  "experience_session": 140,
+  "questions": [
+    {
+      "title": "Las palabras se dividen en estos grupos de fonemas que pueden pronunciarse en un golpe de voz.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Sílaba",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Tilde",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Consonantes",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Esta es la parte de la palabra donde recae la fuerza de la voz en la pronunciación de la misma.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Sílaba tónica",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Hiato",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Vocales",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Este tipo de acento se marca con una tilde en ciertas palabras.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Fonema",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Acento ortográfico",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Grafía",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Cuando terminan en n, s o vocal, las palabras agudas:",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Llevan tilde.",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Se vuelven esdrújulas.",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Son imperativas.",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Cuando terminan en n, s o vocal, las palabras graves:",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Se vuelven agudas.",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "No llevan tilde.",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Son ascendentes.",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    }
+  ]
+}

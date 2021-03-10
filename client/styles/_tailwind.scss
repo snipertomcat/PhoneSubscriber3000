@@ -1,0 +1,159 @@
+@import "~tailwindcss/base";
+@import "~tailwindcss/components";
+
+/* General configurations */
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  @apply bg-white;
+}
+
+
+/* Abstract classes */
+
+.tools {
+  @apply w-10/12 h-24 bg-grey absolute bottom-0 mb-8 flex rounded-lg shadow-tools horizontal-center;
+}
+
+.tools-item {
+  @apply bg-grey flex flex-col items-center justify-center;
+  color: white;
+}
+
+.tools-item .icon {
+  @apply text-4xl;
+}
+
+.tools-item .text {
+  @apply mt-2;
+}
+
+button.tools-item:hover {
+  @apply bg-black;
+}
+
+
+/* Extra classes */
+
+.horizontal-center {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+button:focus {
+  outline: 0;
+}
+
+.modals {
+  @apply absolute top-0 left-0;
+  z-index: 1040;
+}
+
+.modals>div:not(:first-child) {
+  @apply relative bg-white;
+  width: 40vw;
+  left: 50vw;
+  top: 50vh;
+  border-radius: 10px;
+  transform: translate(-50%, -50%);
+}
+
+.modals>.delete_component_modal {
+  width: 45vw !important;
+}
+
+.modals .config-modal .e-visibility {
+  height: 86px;
+}
+
+.modals .background {
+  @apply absolute w-screen h-screen top-0 left-0;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.modals .content {
+  padding: 20px;
+}
+
+.modals .header-buttons {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.modals .header-buttons .close-button {
+  width: fit-content;
+}
+
+.modals .title {
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: unset;
+}
+
+.modals .layout {
+  background: #F7F7F7;
+  border: 3px dashed #A6B6C2;
+  padding: 15px;
+}
+
+.modals .buttons {
+  @apply flex justify-end;
+  margin: unset !important;
+}
+
+.modals .delete_component_modal .buttons {
+  -webkit-box-pack: center !important;
+  -ms-flex-pack: center !important;
+  justify-content: center !important;
+}
+
+.modals .buttons>div {
+  @apply ml-2 mr-2;
+}
+
+.modals .spacer {
+  @apply mt-2 mb-2;
+}
+
+.modals .spacer .line {
+  @apply w-full;
+  background-color: gray;
+  height: 1px;
+}
+
+.modals .buttons .accept {
+  width: 176px;
+  height: 42px;
+  padding: 0.5rem 3rem;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  background: #1A6BF7;
+  border-radius: 4px;
+}
+.modals .buttons .cancel {
+  width: 176px;
+  height: 42px;
+  padding: 0.5rem 3rem;
+  color: #1A6BF7;
+  font-weight: bold;
+  cursor: pointer;
+  background: white;
+  border: 2px solid #1A6BF7;
+  border-radius: 4px;
+}
+
+
+
+@import "~tailwindcss/utilities";

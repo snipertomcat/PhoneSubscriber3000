@@ -1,0 +1,84 @@
+$navbar-height: 54px;
+$logo-width: 115px;
+$logo-height: 24px;
+$item-text-color: #777777;
+$item-text-color-hover: #333333;
+$item-text-color-active: #1A6BF7;
+
+.apithy-navbar {
+  @apply w-full flex justify-between items-center;
+  height: $navbar-height;
+  .apithy-navbar-section {
+    @apply relative w-1/6 flex;
+    .apithy-navbar-logo {
+      img {
+        @apply cursor-pointer;
+        width: $logo-width;
+      }
+    }
+    .user-menu {
+      @apply flex w-full items-center cursor-pointer border-l border-t-0 border-b-0 border-gray-300;
+      height: $navbar-height - 2px;
+      transition: background-color .2s ease-in-out;
+      &:hover {
+        @apply bg-gray-300;
+      }
+      &.open {
+        @apply bg-gray-400;
+      }
+      .user-image {
+        @apply w-10 h-auto mx-4 rounded-full overflow-hidden;
+        img {
+          @apply w-full h-auto;
+        }
+      }
+      .user-name {
+        @apply w-auto mx-4;
+      }
+      .icon {
+        @apply w-1/6 mx-4 text-center;
+      }
+    }
+    .user-menu-collapse {
+      @apply absolute w-full h-0 bg-white overflow-hidden shadow-md;
+      top: 100%;
+      left: 0;
+      z-index: 1080;
+      &.open {
+        @apply h-auto border-t border-gray-300;
+      }
+      .user-menu-collapse-item {
+        @apply py-4 px-2 cursor-pointer;
+        &:hover {
+          @apply bg-gray-300;
+        }
+      }
+    }
+    .apithy-navbar-item {
+      @apply flex w-auto px-4 text-lg cursor-pointer font-exo-2;
+      color: $item-text-color;
+      &:hover:not(.active) {
+        color: $item-text-color-hover;
+      }
+      &.active {
+        @apply py-0 border-0;
+        color: $item-text-color-active;
+      }
+      .item-icon {
+        @apply mr-2;
+      }
+    }
+    &.left {
+      @apply justify-start;
+    }
+    &.center {
+      @apply justify-center;
+    }
+    &.right {
+      @apply justify-end;
+    }
+    &.menu-items {
+      @apply w-4/6;
+    }
+  }
+}

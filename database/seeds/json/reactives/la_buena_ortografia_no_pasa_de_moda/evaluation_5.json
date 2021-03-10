@@ -1,0 +1,121 @@
+{
+  "name": "Demo_O_6_Actividad_2",
+  "title": "Uso de diccionarios",
+  "description": "Analiza cada oración y determina si es verdadera o falsa.",
+  "difficulty": "basic",
+  "creation_type": "manual",
+  "type": "activity",
+  "experience": 65,
+  "experience_session": 144,
+  "questions": [
+    {
+      "title": "La única función del diccionario es dar definiciones.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "title": "Los diccionarios impresos son los únicos materiales de consulta confiables.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "title": "Los diccionarios organizan la información de forma alfabética.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Un diccionario de Historia de México puede considerarse especializado.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Las abreviaturas junto a cada palabra o término no proporcionan información relevante.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        }
+      ]
+    }
+  ]
+}

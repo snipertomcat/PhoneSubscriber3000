@@ -1,0 +1,122 @@
+{
+  "name": "Demo_R_9_Actividad_1",
+  "title": "Errores comunes en la redacción",
+  "description": "Analiza cada oración e indica si es verdadera o falsa.",
+  "difficulty": "basic",
+  "creation_type": "manual",
+  "type": "activity",
+  "experience": 62,
+  "experience_session": 132,
+  "questions": [
+    {
+      "title": "Los errores en la redacción son poco comunes.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "title": "Un buen hábito para no cometer errores es la relectura de los textos propios.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "En la frase “Sonríe comiendo”, el gerundio se emplea correctamente.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "title": "La oración “Hipotecas para casas bajas” tiene una anfibología.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "El dequeísmo es el uso incorrecto de la preposición “de” frente a un pronombre relativo “que”.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    }
+  ]
+}

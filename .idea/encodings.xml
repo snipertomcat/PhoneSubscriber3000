@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Notifications/ConfirmAccount.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Notifications/ConfirmEmail.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Notifications/ConfirmPhone.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Notifications/UserLicenceAssigned.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/app_admin.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/components/platform/ExperienceRating.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/components/platform/ExperienceViewer.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/constants.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/website.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/lang/vendor/confirmation/es/confirmation.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/lang/vendor/confirmation/zh-CN/confirmation.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/companies/show.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/layouts/email.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/layouts/website.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/mails/html/confirmation.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/mails/html/invoice.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/mails/html/licence_assigned.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/mails/html/welcome.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/student/checkout/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/student/experiences/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/website/invalid_confirmation_link.blade.php" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

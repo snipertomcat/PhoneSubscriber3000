@@ -1,0 +1,56 @@
+.user-register-button-top {
+  background-color: #FFA81E;
+  color: white;
+  border-radius: 40px;
+  border: none;
+  font-family: 'AvenirRoman', sans-serif;
+  box-shadow: 2px 2px 6px 0 rgba(88,88,88,0.41);
+  border-top-left-radius: 40px !important;
+  border-bottom-left-radius: 40px !important;
+  font-size: .8rem;
+  padding: 10px 50px 10px 50px;
+}
+input{
+  border-radius: 40px !important;
+  padding: 10px !important;
+  border: none !important;
+  padding-left: 20px !important;
+  color:#B3B3B3 !important;
+  text-align: left;
+}
+
+input:focus {
+  z-index: 1 !important;
+}
+
+.wizard-progress-with-circle, .wizard-nav wizard-nav-pills{
+  display: none;
+}
+
+.social-connect h3{
+    text-align:center;
+    margin: 0 auto 20px !important
+}
+
+.social-login-item{
+    width: 222px;
+    height: 49px;
+    display: block;
+    background-repeat: no-repeat !important;
+    margin: 0 auto;
+}
+
+.google-login-button{
+    background: url('/images/social_login/google_login.png');
+}
+.facebook-login-button{
+    background: url('/images/social_login/facebook_login.png');
+}
+
+.linkedin-login-button{
+    background: url('/images/social_login/linkedin_login.png');
+}
+
+.vue-form-wizard .wizard-header{
+    display: none !important;
+}

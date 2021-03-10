@@ -1,0 +1,144 @@
+{
+  "name": "Demo_S3_Actividad3",
+  "title": "Comprueba tus conocimientos",
+  "description": "Selecciona si las siguientes afirmaciones son falsas o verdaderas. ",
+  "difficulty": "basic",
+  "creation_type": "manual",
+  "type": "activity",
+  "experience": 71,
+  "experience_session": 188,
+  "questions": [
+    {
+      "title": "Para implementar la metodología de las 5S, el orden cronológico correcto es: Limpiar, seleccionar, estandarizar, ordenar y disciplinar.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "title": "Un currículum es tu carta de presentación ante cualquier empresa, organización o institución.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "La metodología 5S nació en los años 60 en Japón y es de las más populares para eficientar los procesos de una fábrica.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Uno de los beneficios de la implementación de las 5S es “las estaciones de trabajo están ordenadas y las personas alcanzan todo fácilmente”.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Tú no eres el responsable de la limpieza de tu lugar de trabajo.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "title": "Una vez que se descubre un defecto, el operador debe hacer inmediatamente la mejora. Si el operador no es capaz de realizar esto, deberá llamar a un Especialista de Mantenimiento.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "name": "DEMO_0_3_Actividad_2",
+  "title": "Abreviaturas: uso correcto y errores comunes",
+  "description": "Lee las siguientes afirmaciones y determina si son verdaderas o falsas.",
+  "difficulty": "basic",
+  "creation_type": "manual",
+  "type": "activity",
+  "experience": 65,
+  "experience_session": 138,
+  "questions": [
+    {
+      "title": "Una abreviatura sirve para sintetizar un mensaje escrito.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Las abreviaturas son sinónimos de las siglas.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "title": "Todas las abreviaturas inician siempre con mayúscula.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "title": "Una abreviatura se puede formar con las letras del inicio y del final de una palabra.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "La tilde de una palabra se conserva en su abreviatura.",
+      "image": null,
+      "type": "bool",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    }
+  ]
+}

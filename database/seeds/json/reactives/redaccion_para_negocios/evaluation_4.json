@@ -1,0 +1,157 @@
+{
+  "name": "DEMO_R_12_Actividad_1",
+  "title": "Implicaturas conversacionales",
+  "description": "Analiza los siguientes enunciados y determina a qué concepto corresponden.",
+  "creation_type": "manual",
+  "type": "activity",
+  "difficulty": "basic",
+  "experience": 67,
+  "experience_session": 160,
+  "questions": [
+    {
+      "title": "Toda comunicación tiene un valor semántico establecido convencionalmente por una comunidad de hablantes.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Significado",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Implicatura conversacional",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Ironía",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Se refiere a la información que no contiene el mensaje en sí mismo, sino que está dada por el contexto comunicativo.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Máxima de cantidad",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Contradicción",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Implicatura conversacional",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Este principio se refiere al esfuerzo implícito de las personas involucradas en un acto comunicativo para intercambiar información de manera exitosa.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Principio de ironía",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Principio de calidad",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Principio de cooperación",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "title": "La siguiente máxima de Grice se relaciona con la necesidad de dar la información necesaria al interlocutor.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Significado",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Máxima de cantidad",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Máxima de modalidad",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Un comentario de este tipo se entiende gracias a la capacidad de los hablantes de interpretar una implicatura conversacional.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Enunciado",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Irónico",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Directo",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    }
+  ]
+}

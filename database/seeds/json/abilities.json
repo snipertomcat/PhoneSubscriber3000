@@ -1,0 +1,646 @@
+[
+  {
+    "id": 75,
+    "type": "ability",
+    "title": "Operación",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 76,
+    "type": "ability",
+    "title": "Productos Delit",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 77,
+    "type": "ability",
+    "title": "Servicio al cliente",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 79,
+    "type": "ability",
+    "title": "medidas de seguridad",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 80,
+    "type": "ability",
+    "title": "manejo de equipo",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 81,
+    "type": "ability",
+    "title": "Delegación actividades",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 82,
+    "type": "ability",
+    "title": "rol de actividades",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 83,
+    "type": "ability",
+    "title": "ingredientes",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 84,
+    "type": "ability",
+    "title": "toppings",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 85,
+    "type": "ability",
+    "title": "Combinación ingredientes",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 86,
+    "type": "ability",
+    "title": "costos adicionales",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 87,
+    "type": "ability",
+    "title": "Productos",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 88,
+    "type": "ability",
+    "title": "Combinaciones",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 89,
+    "type": "ability",
+    "title": "Frutada",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 90,
+    "type": "ability",
+    "title": "procesos",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 92,
+    "type": "ability",
+    "title": "Impulsoa ventas",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 93,
+    "type": "ability",
+    "title": "Cliente delit",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 99,
+    "type": "ability",
+    "title": "Comunicación",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 100,
+    "type": "ability",
+    "title": "Redacción",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 101,
+    "type": "ability",
+    "title": "Comunicación escrita",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 102,
+    "type": "ability",
+    "title": "Circuito del habla",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 103,
+    "type": "ability",
+    "title": "Formas de comunicación",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 104,
+    "type": "ability",
+    "title": "Componentes de un texto",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 105,
+    "type": "ability",
+    "title": "Mejores prácticas de redacción",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 106,
+    "type": "ability",
+    "title": "Tipologías textuales",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 107,
+    "type": "ability",
+    "title": "Cualidades del texto",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 108,
+    "type": "ability",
+    "title": "Mecanismos de cohesión del texto",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 109,
+    "type": "ability",
+    "title": "Procesadores de texto",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 110,
+    "type": "ability",
+    "title": "Punto y aparte",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 111,
+    "type": "ability",
+    "title": "Punto final",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 112,
+    "type": "ability",
+    "title": "Punto y coma",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 113,
+    "type": "ability",
+    "title": "Dos puntos",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 114,
+    "type": "ability",
+    "title": "Sinónimos",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 115,
+    "type": "ability",
+    "title": "Antónimos",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 116,
+    "type": "ability",
+    "title": "Implicaturas conversacionales",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 117,
+    "type": "ability",
+    "title": "Contexto conversacional",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 118,
+    "type": "ability",
+    "title": "Contextos discursivos",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 119,
+    "type": "ability",
+    "title": "Tipos de interlocutores",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 120,
+    "type": "ability",
+    "title": "Ortografía",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 121,
+    "type": "ability",
+    "title": "Mayúsculas",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 122,
+    "type": "ability",
+    "title": "Minúsculas",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 123,
+    "type": "ability",
+    "title": "Redacción moderna",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 124,
+    "type": "ability",
+    "title": "Reglas acentuación",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 125,
+    "type": "ability",
+    "title": "Abreviaturas",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 126,
+    "type": "ability",
+    "title": "Seseo",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 127,
+    "type": "ability",
+    "title": "Neologismos",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 129,
+    "type": "ability",
+    "title": "Redacción aplicada",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 130,
+    "type": "ability",
+    "title": "Erratas más comunes",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 131,
+    "type": "ability",
+    "title": "Lenguaje informal",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 132,
+    "type": "ability",
+    "title": "Vicios del lenguaje",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 133,
+    "type": "ability",
+    "title": "Redacción documentos administrativos",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 134,
+    "type": "ability",
+    "title": "Correo electrónico",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 135,
+    "type": "ability",
+    "title": "Estructura de un curriculum",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 136,
+    "type": "ability",
+    "title": "Conocimientos y características a resaltar",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 137,
+    "type": "ability",
+    "title": "Punto y seguido",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 138,
+    "type": "ability",
+    "title": "Ventas",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 139,
+    "type": "ability",
+    "title": "Desarrollo personal",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 140,
+    "type": "ability",
+    "title": "TPM",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 141,
+    "type": "ability",
+    "title": "TMP",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 142,
+    "type": "ability",
+    "title": "EMM",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 143,
+    "type": "ability",
+    "title": "Orígenes 5S",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 144,
+    "type": "ability",
+    "title": "Escenario ideal TPM",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 145,
+    "type": "ability",
+    "title": "CERO",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 146,
+    "type": "ability",
+    "title": "Pérdidas",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 147,
+    "type": "ability",
+    "title": "Objetivos TPM",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 148,
+    "type": "ability",
+    "title": "Objetivos 5S",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 149,
+    "type": "ability",
+    "title": "Organización",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 150,
+    "type": "ability",
+    "title": "Selección",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 151,
+    "type": "ability",
+    "title": "Orden",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 152,
+    "type": "ability",
+    "title": "Control Visual",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 153,
+    "type": "ability",
+    "title": "Limpieza",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 154,
+    "type": "ability",
+    "title": "Actividades de Limpieza",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 155,
+    "type": "ability",
+    "title": "Diciplina",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 156,
+    "type": "ability",
+    "title": "Excelencia",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 157,
+    "type": "ability",
+    "title": "4M",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 158,
+    "type": "ability",
+    "title": "Mano de obra",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 159,
+    "type": "ability",
+    "title": "Maquinaria",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 160,
+    "type": "ability",
+    "title": "Métodos",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 161,
+    "type": "ability",
+    "title": "Materiales",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 162,
+    "type": "ability",
+    "title": "Retos",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 163,
+    "type": "ability",
+    "title": "Pilares TPM",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 164,
+    "type": "ability",
+    "title": "Mantenimiento autónomo",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 165,
+    "type": "ability",
+    "title": "Mantenimiento planeado",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 166,
+    "type": "ability",
+    "title": "Calidad",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 167,
+    "type": "ability",
+    "title": "Mejora enfocada",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 168,
+    "type": "ability",
+    "title": "Ciclo PHVA",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 169,
+    "type": "ability",
+    "title": "SHE",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 170,
+    "type": "ability",
+    "title": "Gestión temprana",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 171,
+    "type": "ability",
+    "title": "Capacitación",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 172,
+    "type": "ability",
+    "title": "Administrativo",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 173,
+    "type": "ability",
+    "title": "Estandarización",
+    "color": "#B6C5DC",
+    "company_id": 1
+  },
+  {
+    "id": 174,
+    "type": "ability",
+    "title": "Hábitos",
+    "color": "#B6C5DC",
+    "company_id": 1
+  }
+]

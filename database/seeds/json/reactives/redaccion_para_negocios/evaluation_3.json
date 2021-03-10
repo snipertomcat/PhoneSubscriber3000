@@ -1,0 +1,128 @@
+{
+  "name": "Demo_R_5_Actividad_2",
+  "title": "Cualidades del texto escrito",
+  "description": "Lee los enunciados siguientes y relaciónalos con el concepto al que correspondan.",
+  "difficulty": "basic",
+  "creation_type": "manual",
+  "type": "activity",
+  "experience": 67,
+  "experience_session": 152,
+  "questions": [
+    {
+      "title": "Es una unidad completa de sentido. Se construye por el entramado de oraciones y enunciados que se relacionan entre sí.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Párrafo",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Texto",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Verso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Cualidad del texto que alude a la extensión precisa para comunicar un mensaje.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Sintaxis",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Unidad",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Cohesión",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Cualidad textual que establece la relación lógica de las ideas dentro de un texto.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Cohesión",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Coherencia",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Coordinación",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "La elipsis y los conectores discursivos son mecanismos de esta cualidad textual.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Coherencia",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Cohesión",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Gramatica",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    }
+  ]
+}

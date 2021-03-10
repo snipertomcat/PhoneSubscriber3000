@@ -1,0 +1,100 @@
+{
+  "name": "Demo_TPM_3.2_Actividad1",
+  "title": "Crecemos y mantenemos la excelencia",
+  "description": "Lee los siguientes enunciados y determina si son verdaderos o falsos.",
+  "difficulty": "basic",
+  "creation_type": "manual",
+  "type": "activity",
+  "experience": 73,
+  "experience_session": 191,
+  "questions": [
+    {
+      "title": "El mantenimiento autónomo consiste en ejecutar actividades no especializadas diariamente, como inspección, limpieza, ajustes menores, estudios de mejoras y análisis de fallas.",
+      "type": "bool",
+      "difficulty": "basic",
+      "image": "https://evaluations.apithy.com/sites/default/files/h5p/content/137/images/file-5ca3fae989964.jpg",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "El mantenimiento autónomo señala que cada empleado debe realizar sus tareas por sí solo, sin la colaboración de otras áreas, y no necesita recibir capacitación sobre el proceso.",
+      "type": "bool",
+      "difficulty": "basic",
+      "image": "https://evaluations.apithy.com/sites/default/files/h5p/content/137/images/file-5ca3fb098a924.jpg",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "title": "El mantenimiento programado ayuda a desarrollar habilidades para analizar y solucionar problemas, además de que mejora las condiciones de seguridad y eficiencia.",
+      "type": "bool",
+      "difficulty": "basic",
+      "image": "https://evaluations.apithy.com/sites/default/files/h5p/content/137/images/file-5ca3fb0eafb4c.jpg",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "El mantenimiento programado favorece la disminución de los costos de mantenimiento de una empresa.",
+      "type": "bool",
+      "difficulty": "basic",
+      "image": "https://evaluations.apithy.com/sites/default/files/h5p/content/137/images/file-5ca3fb1380a3b.jpg",
+      "answers": [
+        {
+          "title": "Verdadero",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Falso",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    }
+  ]
+}

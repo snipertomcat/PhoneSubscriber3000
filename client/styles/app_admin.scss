@@ -1,0 +1,27 @@
+$fa-font-path: "~font-awesome/fonts";
+
+@import "~bootstrap/dist/css/bootstrap-reboot.css";
+@import "~font-awesome/scss/font-awesome";
+@import "~vue-snotify/styles/material";
+@import "./helpers";
+@import './admin';
+@import '~bulma/bulma';
+@import '~buefy/src/scss/components/datepicker';
+@import '~buefy/src/scss/utils/functions';
+@import '~buefy/src/scss/utils/variables';
+@import '~buefy/src/scss/components/table';
+@import '~buefy/src/scss/components/radio';
+@import '~buefy/src/scss/components/checkbox';
+@import '~buefy/src/scss/components/switch';
+@import '~buefy/src/scss/components/modal';
+@import '~buefy/src/scss/components/taginput';
+@import '~bootstrap/dist/css/bootstrap-grid.css';
+@import "~bootstrap-utilities/bootstrap-utilities.css";
+@import "~animate.css/animate.min.css";
+
+@import "~tailwindcss/base";
+@import "~tailwindcss/components";
+
+@import "~tailwindcss/utilities";
+
+@import "./tailwind";

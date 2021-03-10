@@ -1,0 +1,13 @@
+$fa-font-path: "~font-awesome/fonts";
+
+@import "~tailwindcss/base";
+@import "~tailwindcss/components";
+
+@import "./tailwind";
+@import "../components/tailwind/scss/admin-navbar";
+@import "./experience_editor";
+
+@import "~tailwindcss/utilities";
+
+@import "~font-awesome/scss/font-awesome";
+@import "~animate.css/animate.min.css";

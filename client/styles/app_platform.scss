@@ -1,0 +1,25 @@
+$fa-font-path: "~font-awesome/fonts";
+
+@import "~bootstrap/dist/css/bootstrap-reboot.css";
+@import "~font-awesome/scss/font-awesome";
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+@import "~vue-snotify/styles/material";
+@import "./helpers";
+@import "./platform";
+@import '~bulma/bulma';
+@import '~buefy/src/scss/buefy';
+@import "./app_platform_responsive";
+@import "~bootstrap/dist/css/bootstrap-grid.css";
+@import "~bootstrap-utilities/bootstrap-utilities.css";
+@import '../../public/css/style-cf.css';
+@import "~animate.css/animate.min.css";
+
+@import "~tailwindcss/base";
+@import "~tailwindcss/components";
+
+@import "./tailwind";
+@import "./experience_render";
+
+@import "~tailwindcss/utilities";
+@import "./responsive";

@@ -1,0 +1,157 @@
+{
+  "name": "DEMO_R_4_Actividad_2",
+  "title": "Tipologías textuales",
+  "description": "Lee los siguientes fragmentos y selecciona la tipología textual que le corresponde a cada uno.",
+  "difficulty": "basic",
+  "creation_type": "manual",
+  "type": "activity",
+  "experience": 67,
+  "experience_session": 150,
+  "questions": [
+    {
+      "title": "La crisis de Venezuela ha traído de vuelta uno de los debates de mayor interés en la política internacional de los últimos años, el que plantea la conveniencia o no de un cambio de régimen en un Estado autocrático, caracterizado por la vulneración de los derechos civiles.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Texto argumentativo",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Texto narrativo",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Texto descriptivo",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "El Centro Histórico conserva algunas de las edificaciones más importantes de la época prehispánica, aunque también hay un rico legado virreinal. El s. XIX dejó casas, palacios, parques y templos que llenaron de atractivos la ciudad.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Texto descriptivo",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Texto expositivo",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Texto argumentativo",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Cuando los Argonautas pasaron en su nave por el sitio fatal, las sirenas cantaron para atraerles; pero Orfeo cantó con más dulzura y las eclipsó con los acentos de su lira.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Ninguno de los anteriores",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Texto expositivo",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Texto narrativo",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        }
+      ]
+    },
+    {
+      "title": "Los eclipses lunares se producen durante un plenilunio (luna llena). La Tierra, iluminada por el Sol, crea una sombra en forma de cono, llamada umbral, que tapa el satélite. Un eclipse total de Luna ocurre cuando esta pasa por completo dentro del umbral.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Texto argumentativo",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Texto expositivo",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Texto narrativo",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    },
+    {
+      "title": "Los mexicanos estamos haciendo las cosas mal. El mundo nos percibe como sujetos pobres, desiguales y corruptos. Uno de cada tres mexicanos vive en la pobreza y uno de cada 10 lo hace en la pobreza extrema, señala la Comisión Económica para América Latina y el Caribe (Cepal) en su informe Panorama Social de América Latina 2018.",
+      "image": null,
+      "type": "multiple",
+      "difficulty": "basic",
+      "answers": [
+        {
+          "title": "Texto argumentativo y expositivo",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "1",
+          "points": "1"
+        },
+        {
+          "title": "Texto narrativo y descriptivo",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        },
+        {
+          "title": "Ninguno de los anteriores",
+          "image": "",
+          "type": "checkbox",
+          "is_correct": "0",
+          "points": "0"
+        }
+      ]
+    }
+  ]
+}

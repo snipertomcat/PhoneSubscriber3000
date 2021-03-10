@@ -1,0 +1,63 @@
+/** La voluntad de Ari */
+.ari-border {
+    border: 1px solid #979797;
+    border-radius: 4px;
+}
+.ari-radius {
+    border-radius: 4px;
+}
+.ari-text {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 27px;
+
+    text-align: left;
+
+    color: #444444;
+}
+.ari-opacity {
+    opacity: 0.3;
+}
+.ari-edit  {
+    color: #1A6BF7
+}
+.ari-save-button {
+    background: #1A6BF7;
+    box-shadow: 2px 2px 6px rgba(88, 88, 88, 0.413949);
+    border-radius: 4px;
+}
+.ari-blue {
+    color: #1C6BF8;
+}
+.ari-color-span {
+    width: 138px;
+    height: 25px;
+    left: 421px;
+    top: 417px;
+}
+.no-text-decoration {
+    text-decoration: none !important;
+}
+.force-white {
+    background-color: white !important;
+}
+.ari-info-div-color {
+    background-color: #EAF2FF;
+}
+.button[disabled] {
+    background-color: gray !important;
+}
+
+.ari-scroll {
+    overflow-y: scroll;
+    max-height: 420px;
+}
+
+.ari-height-420 {
+    height: 420px;
+}
+
+.ari-height-252 {
+    height: 252px;
+}

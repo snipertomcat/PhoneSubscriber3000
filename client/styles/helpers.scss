@@ -1,0 +1,351 @@
+@font-face {font-family: 'Avenir'; src: url('/fonts/site/AvenirNextLTPro-Regular.otf'); }
+@font-face {font-family: 'AvenirBold'; src: url('/fonts/site/AvenirNextLTPro-Bold.otf'); }
+
+.block-centered{
+  margin: 0 auto !important;
+  display: block !important;
+}
+
+.tex-center{
+  text-align: center !important;
+}
+
+.block{
+  display: block !important;
+}
+
+.no-borders{
+  border: none !important;
+}
+
+.no-shadows{
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+}
+
+.no-padding{
+  padding: 0 !important;
+}
+
+.no-margin{
+  margin: 0 !important;
+}
+
+.display_none{
+  display:none !important;
+}
+
+.no-visible{
+  visibility: hidden;
+}
+
+.close-modal{
+  width: 30px;
+  padding: 7px !important;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.no-pl{
+  padding-left: 0 !important;
+}
+
+.no-pr{
+  padding-right: 0 !important;
+}
+
+.padding-lr-10 {
+  padding: 0 10px !important;
+}
+
+.padding-lr-15 {
+  padding: 0 15px !important;
+}
+
+.padding-lr-20 {
+  padding: 0 20px !important;
+}
+
+.padding-tb-25 {
+  padding: 25px 0 !important;
+}
+
+.padding-10 {
+  padding: 10px;
+}
+
+.padding-9 {
+  padding: 9px;
+}
+
+.snotify {
+  width: 400px;
+}
+
+.snotify-centerTop, .snotify-centerCenter, .snotify-centerBottom {
+  left: calc(50% - 400px / 2);
+}
+
+.snotifyToast__title {
+  font-size: 1.3em;
+}
+
+.snotifyToast{
+  box-shadow:-1px 1px 5px 0px rgba(0,0,0,0.75);
+}
+
+.snotifyToast__buttons button{
+  text-transform: none !important;
+}
+
+.card-wrapper{
+  margin-bottom: 15px;
+}
+
+.primary-color{
+  color:#FFA81E !important;
+}
+
+.is-bold{
+  font-weight: bold !important;
+}
+.margin-tb-10 {
+  margin: 10px 0px !important;
+}
+.margin-tb-25 {
+  margin: 25px 0px !important;
+}
+.margin-tb-50 {
+  margin: 50px 0px !important;
+}
+
+.margin-lr-15 {
+  margin: 0px 15px !important;
+}
+.margin-lr-0 {
+  margin: 0px 0px !important;
+}
+
+.full-width {
+  width: 100% !important;
+}
+.full-height {
+  height: 100% !important;
+}
+.width-100 {
+  width: 100%;
+}
+.width-75 {
+  width: 75%;
+}
+.width-50 {
+  width: 50%;
+}
+.width-25 {
+  width: 25%;
+}
+.height-100 {
+  height: 100%;
+}
+.height-75 {
+  height: 75%;
+}
+.height-50 {
+  height: 50%;
+}
+.height-25 {
+  height: 25%;
+}
+.font-64 {
+  font-size: 64px;
+}
+.font-50 {
+  font-size: 50px;
+}
+.font-48 {
+  font-size: 48px;
+}
+.font-40 {
+  font-size: 40px;
+}
+.font-32 {
+  font-size: 32px;
+}
+.font-30 {
+  font-size: 30px;
+}
+.font-25 {
+  font-size: 25px;
+}
+.font-24 {
+  font-size: 24px;
+}
+.font-22 {
+  font-size: 22px;
+}
+.font-21 {
+  font-size: 21px;
+}
+.font-20 {
+  font-size: 20px;
+}
+.font-18 {
+  font-size: 18px;
+}
+.font-16 {
+  font-size: 16px;
+}
+.font-14 {
+  font-size: 14px;
+}
+.font-12 {
+  font-size:12px;
+}
+.font-10 {
+  font-size:10px;
+}
+.font-8 {
+  font-size:8px;
+}
+.text-white {
+  color: #FFF !important;
+}
+.apithy-color {
+  color: #2D7EFC !important;
+}
+.apithy-color-admin {
+  background-color: #42B3FF !important;
+}
+.apithy-color-author {
+  background-color: #B6C5DC !important;
+}
+.apithy-color-enroller {
+  background-color: #FE9EA2 !important;
+}
+.apithy-color-student {
+  background-color: #FF824C !important;
+}
+.apithy-color-gest-jerq {
+  background-color: #FFBE56 !important;
+}
+.apithy-color-partner {
+  background-color: #FF5E63 !important;
+}
+.apithy-color-prov-content {
+  background-color: #FFDC58 !important;
+}
+.apithy-color-support {
+  background-color: #59D694 !important;
+}
+.apithy-color-super-admin {
+  background-color: #106CFB !important;
+}
+.apithy-color-supervisor {
+  background-color: #C6E98C !important;
+}
+.apithy-color-status-active {
+  background-color: #59D694 !important;
+}
+.apithy-color-status-inactive {
+  background-color: #FFBE56 !important;
+}
+
+.apithy-color-status-deleted{
+  background-color: #FF5E63 !important;
+}
+
+.apithy-color-status-suspended{
+  background-color: purple !important;
+}
+
+.apithy-color-status-unconfirmed {
+  background-color: darkorange !important;
+}
+.apithy-color-gray {
+  background-color: gray !important;
+}
+.apithy-color-desactivate {
+  background-color: #8FD2FE !important;
+}
+.apithy-color-eliminate {
+  background-color: #FF5E63 !important;
+}
+.apithy-color-black {
+  background-color: #444444 !important;
+  color: #FFFFFF !important;
+}
+.truncate {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.truncate-multiline {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.hidden{
+  display: none;
+}
+
+.g-core-image-upload-btn .btn-upload{
+  background-color: #FF824C !important;
+  border: none !important;
+}
+
+.g-resize-highlight{
+  background-color: #FF824C !important;
+}
+
+.g-core-image-upload-btn .g-resize-bar{
+  background-color: grey !important;
+}
+
+.crop-box:after, .crop-box:before{
+  border-color: lightgray !important;
+}
+
+.g-crop-image-principal{
+  background-color: black!important;
+}
+
+.snotifyToast__inner{
+  background-color: white !important;
+}
+
+.snotifyToast__title{
+  color:black !important;
+  font-weight: bold !important;
+}
+
+.snotifyToast__body{
+  color:black !important;
+}
+
+.snotifyToast__buttons button {
+ text-transform: none !important;
+}
+.multiselect__option--highlight{
+  background:orange!important;
+}
+
+.multiselect__option--highlight:after{
+  background:gray!important;
+}
+
+.element .el-pager li {
+  font-size: 16px;
+}
+
+.element-paginator-text-16 .el-pager li {
+  font-size: 16px;
+}

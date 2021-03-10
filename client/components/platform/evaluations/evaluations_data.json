@@ -1,0 +1,548 @@
+{
+  "data": {
+    "id": 1,
+    "name": "escenario_eeuu_vs_iran",
+    "title": "Escenario de Guerra EE.UU vs Iran",
+    "type": "activity",
+    "difficulty": "basic",
+    "configurations": [
+      {
+        "random": null
+      }
+    ],
+    "questions": [
+      {
+        "id": 1,
+        "title": "EE.UU iniciará medidas de guerra",
+        "image": null,
+        "type": "bool",
+        "difficulty": "intermediate",
+        "configurations": null,
+        "answers": [
+          {
+            "id": 1,
+            "title": "true",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": false,
+            "points": 0,
+            "configurations": null,
+            "created_at": {
+              "date": "2020-01-14 15:03:33.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-14 15:03:33.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          },
+          {
+            "id": 2,
+            "title": "false",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": true,
+            "points": 1,
+            "configurations": null,
+            "created_at": {
+              "date": "2020-01-14 15:03:33.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-14 15:03:33.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "El precio del petroleo aumentara debido al conflicto",
+        "image": null,
+        "type": "bool",
+        "difficulty": "intermediate",
+        "configurations": null,
+        "answers": [
+          {
+            "id": 5,
+            "title": "true",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": true,
+            "points": 1,
+            "configurations": null,
+            "created_at": {
+              "date": "2020-01-14 15:31:23.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-14 15:31:23.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          },
+          {
+            "id": 6,
+            "title": "false",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": false,
+            "points": 0,
+            "configurations": null,
+            "created_at": {
+              "date": "2020-01-14 15:31:23.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-14 15:31:23.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Los aliados de EE.UU se mantendran al margen del conflicto",
+        "image": null,
+        "type": "bool",
+        "difficulty": "intermediate",
+        "configurations": null,
+        "answers": [
+          {
+            "id": 7,
+            "title": "true",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": true,
+            "points": 1,
+            "configurations": null,
+            "created_at": {
+              "date": "2020-01-14 15:32:07.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-14 15:32:07.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          },
+          {
+            "id": 8,
+            "title": "false",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": false,
+            "points": 0,
+            "configurations": null,
+            "created_at": {
+              "date": "2020-01-14 15:32:07.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-14 15:32:07.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "El pueblo de EE.UU desea entrar en guerra",
+        "image": null,
+        "type": "bool",
+        "difficulty": "intermediate",
+        "configurations": null,
+        "answers": [
+          {
+            "id": 9,
+            "title": "true",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": false,
+            "points": 0,
+            "configurations": null,
+            "created_at": {
+              "date": "2020-01-14 15:32:45.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-14 15:32:45.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          },
+          {
+            "id": 10,
+            "title": "false",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": true,
+            "points": 1,
+            "configurations": null,
+            "created_at": {
+              "date": "2020-01-14 15:32:45.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-14 15:32:45.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "¿Que efecto tendrán las nuevas sanciones sobre Iran?",
+        "image": null,
+        "type": "single",
+        "difficulty": "intermediate",
+        "configurations": null,
+        "answers": [
+          {
+            "id": 11,
+            "title": "Degradación de su economia",
+            "image": null,
+            "type": "radio",
+            "is_correct": false,
+            "points": 0,
+            "configurations": null,
+            "created_at": {
+              "date": "2020-01-14 15:33:46.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-14 15:33:46.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          },
+          {
+            "id": 12,
+            "title": "Economicamente ninguno, pero aumentara el numero de voluntarios a combatir.",
+            "image": null,
+            "type": "radio",
+            "is_correct": true,
+            "points": 1,
+            "configurations": null,
+            "created_at": {
+              "date": "2020-01-14 15:33:46.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-14 15:33:46.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "¿Iran derrivo un avion comercial?",
+        "image": null,
+        "type": "multiple",
+        "difficulty": "intermediate",
+        "configurations": null,
+        "answers": [
+          {
+            "id": 13,
+            "title": "Es una pantalla de humo",
+            "image": null,
+            "type": "select",
+            "is_correct": false,
+            "points": 0,
+            "configurations": null,
+            "created_at": {
+              "date": "2020-01-14 15:35:51.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-14 15:35:51.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          },
+          {
+            "id": 14,
+            "title": "No, no tendrian motivos estrategicos para ello",
+            "image": null,
+            "type": "select",
+            "is_correct": true,
+            "points": 1,
+            "configurations": null,
+            "created_at": {
+              "date": "2020-01-14 15:35:51.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-14 15:35:51.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          },
+          {
+            "id": 15,
+            "title": "No, esa historia es similar a los eventos de ucrania",
+            "image": null,
+            "type": "select",
+            "is_correct": true,
+            "points": 1,
+            "configurations": null,
+            "created_at": {
+              "date": "2020-01-14 15:35:51.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-14 15:35:51.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Ordena los siguientes elementos, de acuerdo a la cadena de eventos",
+        "image": null,
+        "type": "sort",
+        "difficulty": "intermediate",
+        "configurations": [
+          null
+        ],
+        "answers": [
+          {
+            "id": 17,
+            "title": "Derribo de avión civil",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": true,
+            "points": 1,
+            "configurations": {
+              "order": {
+                "weight": "3"
+              }
+            },
+            "created_at": {
+              "date": "2020-01-16 12:44:34.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-16 12:44:34.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          },
+          {
+            "id": 18,
+            "title": "Ataque a la embajada de EE.UU en Irak",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": true,
+            "points": 1,
+            "configurations": {
+              "order": {
+                "weight": "1"
+              }
+            },
+            "created_at": {
+              "date": "2020-01-16 12:44:34.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-16 12:44:34.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          },
+          {
+            "id": 19,
+            "title": "Asesinato de Qasem Soleimani",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": true,
+            "points": 1,
+            "configurations": {
+              "order": {
+                "weight": "2"
+              }
+            },
+            "created_at": {
+              "date": "2020-01-16 12:44:34.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-16 12:44:34.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Coloca las siguientes oraciones en donde corresponden.",
+        "image": null,
+        "type": "filling",
+        "difficulty": "intermediate",
+        "configurations":{
+          "filling":{
+            "text":"La escalada del confligo con Irán se origino debido a un #_ esto provoco muchas manifestaciones en Irak y un #_ como represalia EE.UU llevaria acabo #_ "
+          }
+        },
+        "answers": [
+          {
+            "id": 20,
+            "title": "Bombardeo a posiciones Chiitas",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": true,
+            "points": 1,
+            "configurations": {
+              "filling": {
+                "text": "Bombardeo a posiciones Chiitas",
+                "weight": "1"
+              }
+            },
+            "created_at": {
+              "date": "2020-01-20 14:43:47.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-20 14:43:47.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          },
+          {
+            "id": 21,
+            "title": "Ataque a la embajada de EE.UU en Irak",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": true,
+            "points": 1,
+            "configurations": {
+              "filling": {
+                "text": "Ataque a la embajada de EE.UU en Irak",
+                "weight": "2"
+              }
+            },
+            "created_at": {
+              "date": "2020-01-20 14:43:47.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-20 14:43:47.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          },
+          {
+            "id": 22,
+            "title": "Asesinato de Qasem Soleimani",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": true,
+            "points": 1,
+            "configurations": {
+              "filling": {
+                "text": "Asesinato de Qasem Soleimani",
+                "weight": "3"
+              }
+            },
+            "created_at": {
+              "date": "2020-01-20 14:43:47.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-20 14:43:47.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          },
+          {
+            "id": 23,
+            "title": "Derribo avion civil ucraniano",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": true,
+            "points": 1,
+            "configurations": {
+              "filling": {
+                "text": "Derribo avion civil ucraniano",
+                "weight": "4"
+              }
+            },
+            "created_at": {
+              "date": "2020-01-20 14:43:47.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-20 14:43:47.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          },
+          {
+            "id": 24,
+            "title": "Acuerdo de paz",
+            "image": null,
+            "type": "checkbox",
+            "is_correct": false,
+            "points": 0,
+            "configurations": {
+              "filling": {
+                "text": "Acuerdo de paz",
+                "weight": "5"
+              }
+            },
+            "created_at": {
+              "date": "2020-01-20 14:43:47.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            },
+            "updated_at": {
+              "date": "2020-01-20 14:43:47.000000",
+              "timezone_type": 3,
+              "timezone": "America/Mexico_City"
+            }
+          }
+        ]
+      }
+    ],
+    "created_at": {
+      "date": "2020-01-14 15:42:05.000000",
+      "timezone_type": 3,
+      "timezone": "America/Mexico_City"
+    },
+    "updated_at": {
+      "date": "2020-01-14 15:42:05.000000",
+      "timezone_type": 3,
+      "timezone": "America/Mexico_City"
+    }
+  }
+}

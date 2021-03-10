@@ -1,0 +1,117 @@
+.bar {
+    min-height: 14px;
+}
+.bar.big {
+    min-height: 44px;
+}
+.indication {
+    color: #BEBEBE;
+}
+.selector {
+    position: absolute;
+}
+.recurrence.chart {
+    max-height: 250px;
+}
+.experience-item {
+    height: 70px;
+}
+.experience-item .ari-background-gray {
+    background-color: #F2F2F2;
+}
+.experience-item.selected {
+    background-color: #FFBB4E;
+    border-radius: 4px;
+    color: #FFFFFF;
+}
+.experience-item .image {
+    max-width: 70px;
+    min-width: 70px;
+}
+.experience-item.selected .image {
+    max-width: 70px;
+}
+.user-item {
+    height: 70px;
+}
+.user-item .ari-background-gray {
+    background-color: #F2F2F2;
+}
+.user-item.selected {
+    background-color: #FFBB4E;
+    border-radius: 4px;
+    color: #FFFFFF;
+}
+.user-item .image {
+    max-width: 50px;
+    min-width: 50px;
+    border-radius: 50%;
+}
+.activity {
+    height: 42px;
+}
+.activity.ari-background-gray {
+    background-color: #F2F2F2;
+}
+.ari-b-gray {
+    background-color: #B7C5DB;
+}
+.ari-b-blue {
+    background-color: #0098FF;
+}
+.ari-b-cyan {
+    background-color: #67C2FF;
+}
+.ari-b-pink {
+    background-color: #FCB399;
+}
+.ari-b-green {
+    background-color: #22BC6B;
+}
+.ari-text-gray {
+    color: #B7C5DB;
+}
+.ari-text-blue {
+    color: #0098FF;
+}
+.ari-text-cyan {
+    color: #67C2FF;
+}
+.ari-text-pink {
+    color: #FCB399;
+}
+.ari-text-green {
+    color: #22BC6B;
+}
+.has-text-ari-green {
+    color: #22BC6B;
+}
+.has-text-ari-yellow {
+    color: #FFA81E;
+}
+.has-text-ari-red {
+    color: #FF5E63;
+}
+.text-gray-default {
+    color: #BEBEBE !important;
+}
+.card .canvas-container {
+    height: 250px;
+}
+@media screen and (min-width: 992px){
+    .sch-details {
+        margin-left: 65px;
+    }
+    .session-details {
+        margin-left: 130px;
+    }
+}
+.b-table .table-wrapper {
+    margin-bottom: 0;
+}
+.b-table .level {
+    display: none;
+}
+.el-input__inner:focus {
+    border-color: #FFBB4E;
+}
